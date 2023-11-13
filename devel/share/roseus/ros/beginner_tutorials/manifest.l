@@ -1,0 +1,1 @@
+/home/yashas/ROS_Tutorials/devel/.private/beginner_tutorials/share/roseus/ros/beginner_tutorials/manifest.l

@@ -1,0 +1,1 @@
+/home/yashas/ROS_Tutorials/devel/.private/beginner_tutorials/share/beginner_tutorials/cmake/beginner_tutorials-msg-extras.cmake

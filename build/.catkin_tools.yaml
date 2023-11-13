@@ -1,0 +1,6 @@
+devel_space: /home/yashas/ROS_Tutorials/devel
+install: false
+install_space: /home/yashas/ROS_Tutorials/install
+profile: default
+source_space: /home/yashas/ROS_Tutorials/src
+workspace: /home/yashas/ROS_Tutorials
